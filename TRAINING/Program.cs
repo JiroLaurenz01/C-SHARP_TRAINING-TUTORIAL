@@ -1751,8 +1751,6 @@ namespace Training
             #endregion
 
             #endregion
-
-            Console.WriteLine("Hello World ");
         }
 
         #region BINARY CODES FOR DEBUGGING
